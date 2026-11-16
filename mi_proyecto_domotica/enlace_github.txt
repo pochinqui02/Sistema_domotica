@@ -1,4 +1,0 @@
-Pega aquí la URL pública de tu repositorio de GitHub después de crearlo.
-
-Ejemplo de formato:
-https://github.com/USUARIO/mi_proyecto_domotica
